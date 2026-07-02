@@ -33,66 +33,48 @@ export const MENU_ITEMS: MenuItem[] = [
 export const REVIEWS: Review[] = [
   {
     id: 'user-maps-1',
-    author: 'Mariela Castro',
-    rating: 5,
-    text: 'La repostería fina de este lugar es de otro mundo. Pedimos un queque espectacular y el café filtrado estaba en su punto perfecto. Además, el diseño y el ambiente fresco de la terraza hacen que uno quiera quedarse toda la tarde.',
+    author: 'Raquel Cascante',
+    rating: 4,
+    text: 'Cafetería agradable con una amplia zona verde. La decoración interior es encantadora. La repostería estuvo muy buena, al igual que los sándwiches y las tostadas. La leche dorada tenía grumos, lo que afectó la calidad. El área verde es bastante grande, pero creemos que necesita más mantenimiento. El servicio fue un poco lento, pero de igual forma fueron muy amables.',
     source: 'Google Maps',
-    date: 'Hace 3 días',
-    image: 'https://lh3.googleusercontent.com/gps-cs-s/APNQkAFGKYKjJB7PA7ch_z2-OMN_N1nQR1jZcSqwOr_0kslTXK9yZC6kjjLJAVieD_x-UIIv9r-3hadC09OWjU7wW5jaxlPRSBn9TdPThb1YzANmGSrszVAFDjhBThb2cH1UY_6YT8Rx80mTkNy9=s1600'
+    date: 'Hace 4 días',
+    image: 'https://lh3.googleusercontent.com/grass-cs/ANxoTn3m8f294FDr44EEyk5QvVTUJ6QiHZ0bv7KaFINLZFrLw-jqQ3vDbJ6VWwY81rDFxm3UdGdr5aKPcWxLEbNHUizdKk3FMc9Y4WiNGSVLHlwlyyVFAHlDd1eaWvtv603ylNNMjqYZENiC1wY=s1600'
   },
   {
     id: 'user-maps-2',
-    author: 'Carolina Brenes',
+    author: 'Ariana Montiel',
     rating: 5,
-    text: 'Un lugar precioso, la terraza es súper fresca y tranquila en Guayabos. Los platos tienen una presentación impecable y un sabor espectacular. ¡La atención es de primera calidad!',
+    text: 'La comida estuvo deliciosa. Pedí el pollo Angelina. Todo estuvo increíblemente rico, con un agradable toque de sabor a coco. El postre de milhojas fue lo mejor: delicioso y perfectamente equilibrado, una combinación perfecta de dulce y ácido.',
     source: 'Google Maps',
-    date: 'Hace 5 días',
-    image: 'https://lh3.googleusercontent.com/gps-cs-s/APNQkAH0CwoKW1-B_go-JSdur3qu11M3I0Fyh_y95sUo-P3myCdGFTnKzRjBrirD0ZVohDUsD8npbONoTtxrcaUmNPoJ74qbr-5q14Nj1qbeVyI4abeHMXpYv9imje9nyZA7gvqIdMXaaFdflBo=s1600'
+    date: 'Hace 2 meses',
+    image: 'https://lh3.googleusercontent.com/grass-cs/ANxoTn0j4C1xqeEyVkcb7gD8HPB5ipd9rsJiX3jnN6zo93OSbcSe7KBn8kPmtqevkLzi7GUWq-z7TElDuOS8dp_NRj1NLWpYw5pDkPNqhTNj-BkHRIQGjKLtLW6Ui7JonamiyGvOoBVkbdIxuJMb=s1600'
   },
   {
     id: 'user-maps-3',
-    author: 'José Daniel Mora',
+    author: 'Brandon Dix',
     rating: 5,
-    text: 'El Pollo Angelina en Salsa Caribeña es una completa delicia. Todo sumamente fresco y lleno de sabor artesanal. Definitivamente se ha convertido en mi cafetería favorita para almorzar.',
+    text: 'Un pedacito encantador de Costa Rica. Excelente comida, postres y café. El capuchino y el mocha frío estuvieron excelentes. El queque glaseado de semillas de amapola y limón también estuvo delicioso. Una hermosa vista de las montañas desde el patio abierto y un lindo sendero para caminar que baja hacia la copa del bosque. Mesas de picnic con sombrillas debajo de la terraza. Muy recomendado.',
     source: 'Google Maps',
-    date: 'Hace 1 semana',
-    image: 'https://lh3.googleusercontent.com/gps-cs-s/APNQkAGQFyramMuIh0XLnXUbJ0EZsb1raKVqyzuF69MGFQsKW6tG8ZtSg6YEBVo7lmG7Vk6s1UCcf8ZgACpL89k4TeK5rL_btwap3sJwUyc7KCsCQ2e7YnLR1AdoGkgWPHf7O9dRET83s6W3pR1F=s1600'
+    date: 'Hace 11 meses',
+    image: 'https://lh3.googleusercontent.com/grass-cs/ANxoTn2wRg1P_H1xeEMmFh4qxS2X1WeHWlgKb2IcQAhsGLvuwjIlTxw3u4HgbcsDt55joyaBRZNEFXtHuyboipISgptaUUpxV7M_DXd7os_DMqYiTBalBESD0sUYpQglZHDaX25RvwQ448DQAeU=s1600'
   },
   {
     id: 'user-maps-4',
-    author: 'Andrés Vargas',
+    author: 'O. Ebanks',
     rating: 5,
-    text: 'Excelente café de especialidad preparado a la perfección. Las opciones para brunchear o pasar un rato agradable son deliciosas. El ambiente abierto de la terraza es verdaderamente inigualable.',
+    text: 'Me gusta mucho el ambiente de este restaurante. Es casual y relajado, el servicio es excelente y la comida en general es deliciosa. Recomiendo hacer una reservación porque el espacio es limitado. ¡Que lo disfruten!',
     source: 'Google Maps',
-    date: 'Hace 2 semanas',
-    image: 'https://lh3.googleusercontent.com/gps-cs-s/APNQkAHZP-dK4OlKI7WdY4-s_zR2gQXiNUyAYDz06s0ZKaFniHJE-QcuyCqqm8hBGnV3rP8JwwdF4r-QyQ6BppTDagXhuAAEY2uuACZGDbXsQs_zl2B4xVwQDB0KoL_q7RiHN3crP2m-O6NsNhMW=s1600'
+    date: 'Hace 4 meses',
+    image: 'https://lh3.googleusercontent.com/grass-cs/ANxoTn0OUbJn0ZBA2mh7-zuat3PMKx2_LGmjv5ruLpir44mN04ctiXOTan7QARUhII5j7AUnrPzvIAPfYI_7DWUXXwosLuZSCNjWCT2j1wcWsabasAcXZlhJzrsSE30OnBgBAw45O9KeyTghuKBb=s1600'
   },
   {
     id: 'user-maps-5',
-    author: 'Valeria Solano',
+    author: 'Sofía Rojas',
     rating: 5,
-    text: 'La terraza al aire libre es súper acogedera e iluminada. Ideal para disfrutar un brunch dominical delicioso o trabajar un rato sintiendo la brisa fresca de Guayabos.',
+    text: 'Hermoso, delicioso, excelente vista. ¡Nos encantó! El gin tonic de uchuva dorada estuvo espectacular.',
     source: 'Google Maps',
-    date: 'Hace 2 semanas',
-    image: 'https://lh3.googleusercontent.com/gps-cs-s/APNQkAH1MY3p48gvdSTHZ7emRsOzokHrtOy_Z5XTy8KiWtg3PSwn1P4gcw2sFU9j_l5C45cwAsa1WFMvPKtyYLCe4XbQxh7-bmLhtNPsbm_fTTnugYp_NZ0hzpkpqwtJF55IanXWag-8by1T724K=s1600'
-  },
-  {
-    id: 'user-maps-6',
-    author: 'Eduardo Castro',
-    rating: 5,
-    text: 'Un café de especialidad increíble servido con un esmero impecable. Las tazas, la vajilla y cada detalle estético de la terraza te transportan a un espacio de paz.',
-    source: 'Google Maps',
-    date: 'Hace 3 semanas',
-    image: 'https://lh3.googleusercontent.com/gps-cs-s/APNQkAFIgPOxHXDXjG4K5K9_wNwoh8nMPyyXXY-VShF0fKg0sRKbDEeBE5uDeOrx2q2ibmTz0dVpqWDhGTvjfTUwswLlFDkD54yUIXB1JxSY_dn6s7erwmdDsi8Gj9SynZ9SuDytz1qgemwOIHRV=s1600'
-  },
-  {
-    id: 'user-maps-7',
-    author: 'Esteban Méndez',
-    rating: 5,
-    text: 'La repostería de almendra y las bebidas frías son espectaculares. Un oasis escondido en Curridabat para tardear con buena compañía en una terraza fresca y rodeada de verde.',
-    source: 'Google Maps',
-    date: 'Hace 1 mes',
-    image: 'https://lh3.googleusercontent.com/gps-cs-s/APNQkAEwXdV-SDifCjgr9N5rdcp8mjq_7Ez5if-WEdHdU3Fj9v84P8ydfnrjENM8rM4LESqrm2x8pF2zhREfCE3JjTmCPZx4IIldox85u8GT_x3vDRnFRJyP1CTPJ1VdutktVouZWPqPWb_PxN8=s1600'
+    date: 'Hace 4 días',
+    image: 'https://lh3.googleusercontent.com/grass-cs/ANxoTn29wuzBHw2pKkw6bRicdTyv3CLH24HPkbAf38DvncOiIBd4OYhghAoKWOOGW2Ks48Yv6_UyuxkZWMBuQ8P23synvkWwOzw9odPtP1uTlQV7UGf86bn4kqRctlerwjC3jaWslhUatW0RS2ye=s1600'
   }
 ];
 
