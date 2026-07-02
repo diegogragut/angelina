@@ -1,0 +1,6 @@
+{
+  "name": "Angelina Café",
+  "description": "Landing page para el hermoso Angelina Café en Guayabos de Curridabat, Costa Rica. Disfruta de nuestra terraza, café de especialidad y exquisita repostería.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
